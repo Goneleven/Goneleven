@@ -30,7 +30,7 @@
 
   <br>
 
-  <img src="https://media1.tenor.com/m/L2r50BvHb-kAAAAd/boyfriend-fnf-fnf.gif" width="150" height="130">
+  <img src="https://media1.tenor.com/m/L2r50BvHb-kAAAAd/boyfriend-fnf-fnf.gif" width="230" height="180">
   
 </div>
 
