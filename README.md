@@ -6,8 +6,8 @@
 
 <!-- Link das Estatística -->
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Goneleven&title_color=3181df&border_color=0d1118&bg_color=0d1117&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goneleven&title_color=3181df&border_color=0d1118&bg_color=0d1117&theme=dracula&hide_border=false&&layout=compact"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Goneleven&title_color=3181df&border_color=0d1118&bg_color=0d1117&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goneleven&title_color=3181df&border_color=0d1118&bg_color=0d1117&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
 
 #
