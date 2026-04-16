@@ -14,10 +14,10 @@
 
 <br>
 
-# | Goneleven
+<!-- # | Goneleven -->
 
  <!-- Link URL -->
-<div align="center"> 
+<!--  <div align="center"> 
   <p>
     Minhas músicas:
   </p>
@@ -27,7 +27,7 @@
   <a href = "mailto:emailquenaoseiainda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedinquenaoseisecolocoainda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   -->
-
+<!--
   <br>
 
   <img src="https://media1.tenor.com/m/L2r50BvHb-kAAAAd/boyfriend-fnf-fnf.gif" width="230" height="180">
@@ -35,3 +35,4 @@
 </div>
 
 #
+-->
